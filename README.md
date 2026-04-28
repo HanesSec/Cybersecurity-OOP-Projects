@@ -14,19 +14,20 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,github,vscode,azure,powershell,docker" />
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,github,vscode,azure,powershell,mysql,docker" />
 </p>
 
 ---
 
 ### 📊 Threat Intelligence (Stats)
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=tokyonight&line_height=30" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=compact&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&border_color=00ff00" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanesSec&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanesSec&theme=react-dark&bg_color=000&color=00ff00&line=00ff00&point=fff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
