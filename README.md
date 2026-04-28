@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vignette.wikia.nocookie.net/powerlisting/images/f/f5/Terminal_Matrix.gif/revision/latest?cb=20150110034639" width="100%" height="150" style="object-fit: cover;">
+  <img src="banner.gif" width="100%">
 </p>
 
 <p align="center">
