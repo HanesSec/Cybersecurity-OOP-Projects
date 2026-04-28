@@ -14,12 +14,10 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
@@ -29,11 +27,13 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" height="200" />
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=donut&theme=dark&bg_color=000&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&count_private=true&ring_color=00ff00&langs_count=1" height="200" />
+      <td align="center" width="300">
+        <img src="https://img.shields.io/badge/PYTHON-100%25-000000?style=for-the-badge&logo=python&logoColor=00FF00&labelColor=000000&color=00FF00" height="45" />
+        <br><br>
+        <img src="https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" width="200" />
       </td>
     </tr>
   </table>
@@ -49,9 +49,3 @@
 - [ ] Concluir certificação Cisco CyberOps.
 - [ ] Desenvolver ferramentas de scan de rede em Python.
 - [ ] Finalizar graduação com portfólio de auditoria de sistemas.
-
----
-
-<p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i>
-</p>
