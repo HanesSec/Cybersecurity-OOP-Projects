@@ -31,9 +31,11 @@
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" />
       </td>
       <td align="center" width="300">
-        <img src="https://img.shields.io/badge/PYTHON-100%25-000000?style=for-the-badge&logo=python&logoColor=00FF00&labelColor=000000&color=00FF00" height="45" />
+        <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF00" height="55" />
         <br><br>
-        <img src="https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" width="200" />
+        <img src="https://img.shields.io/badge/100%25-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=00FF00" height="40" style="border: 1px solid #00ff00;" />
+        <br>
+        <img src="https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" width="220" />
       </td>
     </tr>
   </table>
