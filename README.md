@@ -21,10 +21,18 @@
 
 ### 📊 Threat Intelligence (Stats)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=compact&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&border_color=00ff00" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=compact&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&border_color=00ff00&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanesSec&theme=react-dark&bg_color=000&color=00ff00&line=00ff00&point=fff&area=true&hide_border=true" width="100%" />
