@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=code&color=00ff00&height=200&section=header&text=HANES%20SEC&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20LINUX&descSize=25&descAlignY=60">
+  <img src="https://vignette.wikia.nocookie.net/powerlisting/images/f/f5/Terminal_Matrix.gif/revision/latest?cb=20150110034639" width="100%" height="150" style="object-fit: cover;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Initializing+Security+Protocols...;Mastering+Python+for+Pentesting;Analyzing+Network+Traffic...;HanesSec+System+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=70&lines=HANES+SEC+SYSTEM;Initializing+Protocols...;Python+for+Cybersecurity;Linux+Power+User" />
 </p>
 
 ---
