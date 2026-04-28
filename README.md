@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=code&color=00ff00&height=200&section=header&text=HANES%20BARBOSA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20LINUX&descSize=25&descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=code&color=00ff00&height=200&section=header&text=HANES%20SEC&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20LINUX&descSize=25&descAlignY=60">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Initializing+Security+Protocols...;Mastering+Python+for+Pentesting;Analyzing+Network+Traffic...;Linux+System+Administrator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Initializing+Security+Protocols...;Mastering+Python+for+Pentesting;Analyzing+Network+Traffic...;HanesSec+System+Online" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ### 🛡️ About the Specialist
-**Hanes Barbosa** | Instrutor de TI e aspirante a Hacker Ético.
+**Hanes Barbosa (HanesSec)** | Instrutor de TI e aspirante a Hacker Ético.
 Localizado em **Remanso, BA**, focado em transformar café em scripts de segurança e automação.
 
 - 🎓 Graduando em **Segurança da Informação** (Gran Faculdade).
@@ -33,15 +33,15 @@ Localizado em **Remanso, BA**, focado em transformar café em scripts de seguran
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanesSec&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📊 Threat Intelligence (Stats)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&line_height=30" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=tokyonight&line_height=30" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
