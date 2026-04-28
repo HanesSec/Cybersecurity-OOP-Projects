@@ -29,11 +29,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" height="200" />
       </td>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=donut&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&border_color=00ff00&hide_border=false&count_private=true&ring_color=00ff00" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanesSec&layout=donut&theme=dark&bg_color=000&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&count_private=true&ring_color=00ff00&langs_count=1" height="200" />
       </td>
     </tr>
   </table>
