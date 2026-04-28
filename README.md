@@ -1,52 +1,47 @@
-# 👨‍💻 HanesSec | Cybersecurity & Python
-
-> **"A segurança é uma ilusão para aqueles que não entendem o código; para nós, é um campo de batalha diário."**
-
----
-
-### 🟢 System Status: Online
-- 🎓 **Graduação:** Segurança da Informação (Gran Faculdade)
-- ⚡ **Foco Atual:** Ethical Hacking (Cisco NetAcad)
-- 🐍 **Especialização:** Python para Automação de Segurança
-
----
-
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</p>
-
----
-
-### 📊 Threat Intelligence (Stats)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=HanesSec&show_icons=true&theme=dark&bg_color=000&title_color=00ff00&text_color=fff&icon_color=00ff00&border_color=00ff00&hide_border=false" />
-      </td>
-      <td align="center" width="350">
-        <br>
-        <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF00" height="70" />
-        <br><br>
-        <img src="https://img.shields.io/badge/100%25-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=00FF00" height="45" />
-        <br>
-        <img src="https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" width="250" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">👾 HanesSec</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanesSec&theme=react-dark&bg_color=000&color=00ff00&line=00ff00&point=fff&area=true&hide_border=true" width="100%" />
+  <img src="https://img.shields.io/badge/Security_Information-undergraduate-1f6feb?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-in_progress-238636?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Cisco_NetAcad-9e6a03?style=flat-square&labelColor=0d1117">
 </p>
+
+<br>
+
+## // about
+
+Estudante de **Segurança da Informação** construindo base sólida em redes, ethical hacking e automação com Python. Formação prática via **Cisco NetAcad**. Acredito que entender o sistema por dentro é o primeiro passo para protegê-lo por fora.
+
+<br>
+
+## // training
+
+**Cisco NetAcad** — principal plataforma de formação
+
+`networking` `cybersecurity` `cyberops` `ethical hacking`
+
+<br>
+
+## // stack & knowledge
+
+| Tecnologia | Nível atual |
+|------------|-------------|
+| Python | Scripts e automações básicas |
+| Linux | Uso diário |
+| Bash | Shell scripting |
+| Networks | Fundamentos (TCP/IP, subnetting) |
+| Git | Controle de versão |
+| Kali Linux | Em aprendizado |
+
+<br>
+
+## // 2026 roadmap
+
+- `WIP` &nbsp; Cisco CyberOps Associate — preparação ativa
+- `Q2` &nbsp;&nbsp; Concluir trilha de Ethical Hacking no NetAcad com labs documentados
+- `Q3` &nbsp;&nbsp; Desenvolver ferramentas de varredura de rede em Python (portfólio público)
+- `Q4` &nbsp;&nbsp; Concluir graduação com portfólio de auditorias e relatórios técnicos
 
 ---
 
-### 🎯 2026 Objectives
-- [ ] Concluir certificação Cisco CyberOps.
-- [ ] Desenvolver ferramentas de scan de rede em Python.
-- [ ] Finalizar graduação com portfólio de auditoria de sistemas.
+<p align="center"><sub>— sempre aprendendo. nunca parado. —</sub></p>
