@@ -14,7 +14,7 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,github,vscode,azure,powershell,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,github,vscode,azure,powershell,mysql,docker&theme=dark" />
 </p>
 
 ---
